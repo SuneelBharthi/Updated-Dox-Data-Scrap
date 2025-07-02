@@ -1,0 +1,32 @@
+2025-07-02 19:54:08,563 - INFO - ====== WebDriver manager ======
+2025-07-02 19:54:10,045 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-02 19:54:10,200 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-02 19:54:10,283 - INFO - Driver [C:\Users\Mahad\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-02 19:54:12,420 - INFO - Opening product page: https://box.co.uk/nx-ktdek-002-acer-swift-edge-amd-ryzen-7-8840u-16-gb
+2025-07-02 19:54:51,287 - ERROR - Run: Message: 
+
+2025-07-02 19:55:21,734 - ERROR - Run: Message: 
+
+2025-07-02 19:55:52,043 - ERROR - Run: Message: 
+
+2025-07-02 19:56:22,329 - ERROR - Run: Message: 
+
+2025-07-02 19:56:22,427 - INFO - Product Name: Acer Swift Edge SFE16-44 AMD Ryzen 7 8840U 16GB RAM 1TB SSD 16" OLED Laptop
+2025-07-02 19:56:22,462 - INFO - Product MPN: NX.KTDEK.002
+2025-07-02 19:56:22,509 - INFO - Product Current Price: £949.99
+2025-07-02 19:56:22,557 - INFO - Product List Price: £1299.99
+2025-07-02 19:56:22,640 - INFO - Sub Category: Acer Laptops
+2025-07-02 19:56:22,641 - INFO - Child Category: Acer Swift Laptops
+2025-07-02 19:56:22,689 - INFO - Image URL 0: https://cdn.box.co.uk/catalog/product/e/b/ebc32e905a1308d5af2cfd7c19494083.jpg?=1&height=100
+2025-07-02 19:56:23,086 - INFO - Image downloaded: NX.KTDEK.002-1-price.jpg
+2025-07-02 19:56:23,121 - INFO - Image URL 1: https://cdn.box.co.uk/catalog/product/9/a/9ab23e580fbe5b9b341224960fe182cc.jpg?=1&height=100
+2025-07-02 19:56:23,459 - INFO - Image downloaded: NX.KTDEK.002-2-price.jpg
+2025-07-02 19:56:23,490 - INFO - Image URL 2: https://cdn.box.co.uk/catalog/product/f/d/fd58f41fa7ddc7fb30d41ad00f799694.jpg?=1&height=100
+2025-07-02 19:56:23,817 - INFO - Image downloaded: NX.KTDEK.002-3-price.jpg
+2025-07-02 19:56:23,841 - INFO - Image URL 3: https://cdn.box.co.uk/catalog/product/e/6/e6a2e2605d776fc0d418120ded3001ac.jpg?=1&height=100
+2025-07-02 19:56:24,185 - INFO - Image downloaded: NX.KTDEK.002-4-price.jpg
+2025-07-02 19:56:39,481 - INFO -                                         Product Name  ...                                               FAQs
+0  Acer Swift Edge SFE16-44 AMD Ryzen 7 8840U 16G...  ...  {'FAQs': [{'Question': 'What payment methods c...
+
+[1 rows x 15 columns]
+2025-07-02 19:56:39,575 - INFO - Data saved to scraped_product_data_2025-07-02_19-56-39.xlsx

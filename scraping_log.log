@@ -1,0 +1,173 @@
+2025-07-01 17:32:55,803 - INFO - ====== WebDriver manager ======
+2025-07-01 17:32:58,933 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-01 17:32:59,111 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-01 17:32:59,187 - INFO - Driver [C:\Users\Mahad\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-01 17:33:02,476 - INFO - Opening product page: https://box.co.uk/nx-ktdek-002-acer-swift-edge-amd-ryzen-7-8840u-16-gb
+2025-07-01 17:34:02,321 - ERROR - Error: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xa83b03+62899]
+	GetHandleVerifier [0x0xa83b44+62964]
+	(No symbol) [0x0x8b10f3]
+	(No symbol) [0x0x8f980e]
+	(No symbol) [0x0x8f9bab]
+	(No symbol) [0x0x9425c2]
+	(No symbol) [0x0x91e554]
+	(No symbol) [0x0x93fd81]
+	(No symbol) [0x0x91e306]
+	(No symbol) [0x0x8ed670]
+	(No symbol) [0x0x8ee4e4]
+	GetHandleVerifier [0x0xce4793+2556483]
+	GetHandleVerifier [0x0xcdfd02+2537394]
+	GetHandleVerifier [0x0xaaa2fa+220586]
+	GetHandleVerifier [0x0xa9aae8+157080]
+	GetHandleVerifier [0x0xaa141d+184013]
+	GetHandleVerifier [0x0xa8ba68+95512]
+	GetHandleVerifier [0x0xa8bc10+95936]
+	GetHandleVerifier [0x0xa76b5a+9738]
+	BaseThreadInitThunk [0x0x7639fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77d282ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77d2827e+238]
+
+2025-07-01 17:34:02,356 - WARNING - No pop-up detected or failed to close: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="close-popup-button"]"}
+  (Session info: chrome=137.0.7151.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0xa83b03+62899]
+	GetHandleVerifier [0x0xa83b44+62964]
+	(No symbol) [0x0x8b10f3]
+	(No symbol) [0x0x8f980e]
+	(No symbol) [0x0x8f9bab]
+	(No symbol) [0x0x9425c2]
+	(No symbol) [0x0x91e554]
+	(No symbol) [0x0x93fd81]
+	(No symbol) [0x0x91e306]
+	(No symbol) [0x0x8ed670]
+	(No symbol) [0x0x8ee4e4]
+	GetHandleVerifier [0x0xce4793+2556483]
+	GetHandleVerifier [0x0xcdfd02+2537394]
+	GetHandleVerifier [0x0xaaa2fa+220586]
+	GetHandleVerifier [0x0xa9aae8+157080]
+	GetHandleVerifier [0x0xaa141d+184013]
+	GetHandleVerifier [0x0xa8ba68+95512]
+	GetHandleVerifier [0x0xa8bc10+95936]
+	GetHandleVerifier [0x0xa76b5a+9738]
+	BaseThreadInitThunk [0x0x7639fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77d282ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77d2827e+238]
+
+2025-07-01 17:34:02,557 - INFO - Element found for XPath: //*[@id="maincontent"]/app-dynamic-page/app-pdp/section/div/div[1]/div[2]/div[1]/h1
+2025-07-01 17:34:02,677 - INFO - Element found for XPath: //*[@id="maincontent"]/app-dynamic-page/app-pdp/section/div/div[1]/div[2]/div[1]/div[1]/span
+2025-07-01 17:34:02,722 - INFO - Element found for XPath: //*[@id="maincontent"]/app-dynamic-page/app-pdp/section[1]/div/div[1]/div[2]/div[1]/div[3]/div/div[1]/div[1]/span
+2025-07-01 17:34:02,956 - INFO - Element found for XPath: //*[@id="maincontent"]/app-dynamic-page/app-pdp/section[1]/div/div[1]/div[2]/div[1]/div[3]/div/div[2]/span
+2025-07-01 17:34:03,006 - INFO - Element found for XPath: //*[@id="maincontent"]/app-dynamic-page/app-pdp/section/app-breadcrumbs/div/div/div/div
+2025-07-01 17:34:03,054 - INFO - Element found for XPath: //*[@id="maincontent"]/app-dynamic-page/app-pdp/section[1]/div/div[1]/div[2]/div[1]/div[2]
+2025-07-01 17:34:33,478 - ERROR - Error: Message: 
+
+2025-07-01 17:35:03,675 - ERROR - Error: Message: 
+
+2025-07-01 17:35:34,206 - ERROR - Error: Message: 
+
+2025-07-01 17:36:04,623 - ERROR - Error: Message: 
+
+2025-07-01 17:36:04,690 - INFO - Product Name: Acer Swift Edge SFE16-44 AMD Ryzen 7 8840U 16GB RAM 1TB SSD 16" OLED Laptop
+2025-07-01 17:36:04,731 - INFO - Product MPN: NX.KTDEK.002
+2025-07-01 17:36:04,766 - INFO - Product Current Price: £949.99
+2025-07-01 17:36:04,803 - INFO - Product List Price: £1299.99
+2025-07-01 17:36:04,869 - INFO - Breadcrumbs - Sub Category: Acer Laptops, Child Category: Acer Swift Laptops, Grand Child Categories: []
+2025-07-01 17:36:04,870 - INFO - Sub Category: Acer Laptops
+2025-07-01 17:36:04,870 - INFO - Child Category: Acer Swift Laptops
+2025-07-01 17:36:04,902 - INFO - Image URL 0: https://cdn.box.co.uk/catalog/product/e/b/ebc32e905a1308d5af2cfd7c19494083.jpg?=1&height=100
+2025-07-01 17:36:06,292 - INFO - Image downloaded: NX.KTDEK.002-1-price.jpg
+2025-07-01 17:36:06,332 - INFO - Image URL 1: https://cdn.box.co.uk/catalog/product/9/a/9ab23e580fbe5b9b341224960fe182cc.jpg?=1&height=100
+2025-07-01 17:36:07,248 - INFO - Image downloaded: NX.KTDEK.002-2-price.jpg
+2025-07-01 17:36:07,280 - INFO - Image URL 2: https://cdn.box.co.uk/catalog/product/f/d/fd58f41fa7ddc7fb30d41ad00f799694.jpg?=1&height=100
+2025-07-01 17:36:07,785 - INFO - Image downloaded: NX.KTDEK.002-3-price.jpg
+2025-07-01 17:36:07,812 - INFO - Image URL 3: https://cdn.box.co.uk/catalog/product/e/6/e6a2e2605d776fc0d418120ded3001ac.jpg?=1&height=100
+2025-07-01 17:36:08,206 - INFO - Image downloaded: NX.KTDEK.002-4-price.jpg
+2025-07-01 17:36:08,317 - INFO - Tags found: ['Norton Included', 'Free Delivery']
+2025-07-01 17:36:08,368 - INFO - Element found for XPath: //*[@id="accordion"]/p-accordion/div/p-accordiontab[2]
+2025-07-01 17:36:09,670 - ERROR - Error retrieving specifications: Message: element click intercepted: Element is not clickable at point (632, 1564)
+  (Session info: chrome=137.0.7151.120)
+Stacktrace:
+	GetHandleVerifier [0x0xa83b03+62899]
+	GetHandleVerifier [0x0xa83b44+62964]
+	(No symbol) [0x0x8b10f3]
+	(No symbol) [0x0x8ffb30]
+	(No symbol) [0x0x8fdeea]
+	(No symbol) [0x0x8fba67]
+	(No symbol) [0x0x8fad37]
+	(No symbol) [0x0x8ef3e5]
+	(No symbol) [0x0x91e50c]
+	(No symbol) [0x0x8eee74]
+	(No symbol) [0x0x91e784]
+	(No symbol) [0x0x93fd81]
+	(No symbol) [0x0x91e306]
+	(No symbol) [0x0x8ed670]
+	(No symbol) [0x0x8ee4e4]
+	GetHandleVerifier [0x0xce4793+2556483]
+	GetHandleVerifier [0x0xcdfd02+2537394]
+	GetHandleVerifier [0x0xaaa2fa+220586]
+	GetHandleVerifier [0x0xa9aae8+157080]
+	GetHandleVerifier [0x0xaa141d+184013]
+	GetHandleVerifier [0x0xa8ba68+95512]
+	GetHandleVerifier [0x0xa8bc10+95936]
+	GetHandleVerifier [0x0xa76b5a+9738]
+	BaseThreadInitThunk [0x0x7639fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77d282ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77d2827e+238]
+
+2025-07-01 17:36:09,671 - ERROR - Error retrieving product details for https://box.co.uk/nx-ktdek-002-acer-swift-edge-amd-ryzen-7-8840u-16-gb: name 'scrape_key_features' is not defined
+2025-07-01 17:36:11,676 - INFO - Scraped Data: Empty DataFrame
+Columns: []
+Index: []
+2025-07-01 17:36:11,722 - INFO - Data saved to scraped_product_data_2025-07-01_17-36-11.xlsx
+2025-07-01 17:36:42,129 - ERROR - Error: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xa83b03+62899]
+	GetHandleVerifier [0x0xa83b44+62964]
+	(No symbol) [0x0x8b10f3]
+	(No symbol) [0x0x8f980e]
+	(No symbol) [0x0x8f9bab]
+	(No symbol) [0x0x9425c2]
+	(No symbol) [0x0x91e554]
+	(No symbol) [0x0x93fd81]
+	(No symbol) [0x0x91e306]
+	(No symbol) [0x0x8ed670]
+	(No symbol) [0x0x8ee4e4]
+	GetHandleVerifier [0x0xce4793+2556483]
+	GetHandleVerifier [0x0xcdfd02+2537394]
+	GetHandleVerifier [0x0xaaa2fa+220586]
+	GetHandleVerifier [0x0xa9aae8+157080]
+	GetHandleVerifier [0x0xaa141d+184013]
+	GetHandleVerifier [0x0xa8ba68+95512]
+	GetHandleVerifier [0x0xa8bc10+95936]
+	GetHandleVerifier [0x0xa76b5a+9738]
+	BaseThreadInitThunk [0x0x7639fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77d282ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77d2827e+238]
+
+2025-07-01 17:36:42,149 - WARNING - No pop-up detected or failed to close: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="close-popup-button"]"}
+  (Session info: chrome=137.0.7151.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0xa83b03+62899]
+	GetHandleVerifier [0x0xa83b44+62964]
+	(No symbol) [0x0x8b10f3]
+	(No symbol) [0x0x8f980e]
+	(No symbol) [0x0x8f9bab]
+	(No symbol) [0x0x9425c2]
+	(No symbol) [0x0x91e554]
+	(No symbol) [0x0x93fd81]
+	(No symbol) [0x0x91e306]
+	(No symbol) [0x0x8ed670]
+	(No symbol) [0x0x8ee4e4]
+	GetHandleVerifier [0x0xce4793+2556483]
+	GetHandleVerifier [0x0xcdfd02+2537394]
+	GetHandleVerifier [0x0xaaa2fa+220586]
+	GetHandleVerifier [0x0xa9aae8+157080]
+	GetHandleVerifier [0x0xaa141d+184013]
+	GetHandleVerifier [0x0xa8ba68+95512]
+	GetHandleVerifier [0x0xa8bc10+95936]
+	GetHandleVerifier [0x0xa76b5a+9738]
+	BaseThreadInitThunk [0x0x7639fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77d282ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77d2827e+238]
+
